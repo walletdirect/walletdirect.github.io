@@ -1,0 +1,93 @@
+#header {
+    -webkit-box-shadow: 0 10px 5px #141b29;
+    -moz-box-shadow: 0 10px 5px #141b29;
+    box-shadow: 0 -15px 25px #141b29;
+    padding: .5rem 0 .5rem 0;
+    width: 100vw;
+    position: fixed;
+    background-color: #fff;
+    z-index: 99999999;
+    top: 0;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 4.5rem;
+    width: 100%;
+    /* padding: 0 1.5rem 0 1.5rem; */
+}
+.left-navbar img {
+    width: 3rem;
+    height: 2rem;
+}
+.left-navbar a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin-left: 8px;
+}
+.right-navbar {
+    text-align: right;
+}
+.right-navbar button {
+    background-color: #3a86ff;
+    border: none;
+    border-radius: .3rem;
+    color: #fff;
+    font-weight: 500;
+    padding: .6rem 1.2rem .6rem 1.2rem;
+}
+.menu-box {
+    background-color: #fff;
+    border: 2px solid #3a86ff;
+    width: 100%;
+    padding: 1rem 1rem 1rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 7px;
+}
+.menu-box h1 {
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 600 !important;
+    color: #3a86ff;
+}
+.last-box {
+    background-color: #3a86ff;
+}
+.last-box h1 {
+    color: #fff;
+}
+#hero {
+    margin-top: 8.9rem;
+}
+a {
+    text-decoration: none !important;
+}
+Footer {
+    margin-top: 2.3rem;
+    margin-bottom: 1.9rem;
+}
+.footer-text h6 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.footer-icons a i {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-decoration: none !important;
+    color: black;
+}
+
+@media screen and (max-width: 768px) {
+    #hero {
+        padding-left: 3.5rem;
+        padding-right: 3.5rem;
+        margin-top: 8.57rem;
+    }
+}

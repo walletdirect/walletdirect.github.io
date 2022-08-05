@@ -1,0 +1,400 @@
+Uri: https://assets.coingecko.com/markets/images/705/small/kyberswap.png?1638932592
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\markets\images\705\small\kyberswap.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\npm\@popperjs\core@2.10.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\npm\bootstrap@5.1.3\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\npm\bootstrap@5.1.3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\npm\bootstrap@5.1.3\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://cryptologos.cc/logos/aave-aave-logo.png?v=022
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\logos\aave-aave-logo.png
+Content Type: image/png
+
+Uri: https://ethereum-magicians.org/uploads/default/original/1X/e726391f66eb7da7a0ed7d780b4df5e8e2416a17.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\uploads\default\original\1X\e726391f66eb7da7a0ed7d780b4df5e8e2416a17.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0528ee7e-16d1-4089-21e3-bbfb41933100/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\0528ee7e-16d1-4089-21e3-bbfb41933100\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0a805e10-bfc0-4d02-d9c1-8cec88f0dc00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\0a805e10-bfc0-4d02-d9c1-8cec88f0dc00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0b32f06b-bce3-46a7-d445-0e77dc2ad800/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\0b32f06b-bce3-46a7-d445-0e77dc2ad800\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0b7e0f05-0a5b-4f3c-315d-59c1c4c22c00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\0b7e0f05-0a5b-4f3c-315d-59c1c4c22c00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/12f981b1-bb0a-4115-009f-317255979600/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\12f981b1-bb0a-4115-009f-317255979600\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1746957d-bbfd-45aa-0695-37f27b67c200/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\1746957d-bbfd-45aa-0695-37f27b67c200\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1991f85d-43d4-4165-3502-cd6ef8312b00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\1991f85d-43d4-4165-3502-cd6ef8312b00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1afb5a3a-2da3-40ce-baf9-b416e7510600/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\1afb5a3a-2da3-40ce-baf9-b416e7510600\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1efb49ec-2bab-4fa1-f2f2-4392c64ed000/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\1efb49ec-2bab-4fa1-f2f2-4392c64ed000\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/26a8f588-3231-4411-60ce-5bb6b805a700/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\26a8f588-3231-4411-60ce-5bb6b805a700\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/2972bbf8-0891-414a-f63c-8d3bcf661d00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\2972bbf8-0891-414a-f63c-8d3bcf661d00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/3117d3ce-b973-4cfd-8fb5-f5d72ed3c200/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\3117d3ce-b973-4cfd-8fb5-f5d72ed3c200\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/34c4f901-70de-4507-e7a0-bc7887843000/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\34c4f901-70de-4507-e7a0-bc7887843000\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/3c928cbd-39dc-4090-c372-d4dcb3c89500/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\3c928cbd-39dc-4090-c372-d4dcb3c89500\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/47d03b65-6be7-4004-5dba-7dadef6e6000/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\47d03b65-6be7-4004-5dba-7dadef6e6000\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/4b7268e6-47fb-46bc-6f3c-424f44695f00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\4b7268e6-47fb-46bc-6f3c-424f44695f00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/58230f60-6c7b-400c-ab96-cb1fd0391700/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\58230f60-6c7b-400c-ab96-cb1fd0391700\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/5a96d19c-93d3-4e6a-624a-16f52773d000/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\5a96d19c-93d3-4e6a-624a-16f52773d000\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/5c38b22c-adb9-4899-3252-6e3d71458500/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\5c38b22c-adb9-4899-3252-6e3d71458500\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/5e481041-dc3c-4a81-373a-76bbde91b800/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\5e481041-dc3c-4a81-373a-76bbde91b800\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/65a60845-8fe3-4146-2688-586e4dc68a00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\65a60845-8fe3-4146-2688-586e4dc68a00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/6886f45d-1451-41ec-ebc7-b18bebfc3c00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\6886f45d-1451-41ec-ebc7-b18bebfc3c00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/6d18e8ea-b536-4038-c5bf-94a499d5a400/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\6d18e8ea-b536-4038-c5bf-94a499d5a400\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/744a3fbe-4261-4148-133e-49c5b58cb400/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\744a3fbe-4261-4148-133e-49c5b58cb400\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/7c4f63f5-3cf6-4043-3c71-139e6f245000/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\7c4f63f5-3cf6-4043-3c71-139e6f245000\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/7c5ff577-a68d-49c5-02cd-3d83637b0b00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\7c5ff577-a68d-49c5-02cd-3d83637b0b00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/82cdf116-4355-4e07-88e4-63dc2e253500/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\82cdf116-4355-4e07-88e4-63dc2e253500\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/83b291fa-1a08-4871-3ddb-8faa8be6f200/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\83b291fa-1a08-4871-3ddb-8faa8be6f200\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/8b59dafd-9150-46be-9793-34e6d3298100/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\8b59dafd-9150-46be-9793-34e6d3298100\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/91458f54-aabe-44cf-4788-159ccc733600/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\91458f54-aabe-44cf-4788-159ccc733600\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/97d4429f-eaf0-4302-87f5-9d26d46fe700/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\97d4429f-eaf0-4302-87f5-9d26d46fe700\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/97d45a92-a1f0-46da-95a6-ad5db99f3500/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\97d45a92-a1f0-46da-95a6-ad5db99f3500\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/989d504f-93db-4ca6-c00a-9d1faf177d00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\989d504f-93db-4ca6-c00a-9d1faf177d00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/a5b7369b-d92c-41a4-0263-ca28f4597600/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\a5b7369b-d92c-41a4-0263-ca28f4597600\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/a883229c-26cb-4c19-9b34-1f0ed4012a00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\a883229c-26cb-4c19-9b34-1f0ed4012a00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/a9fcf1d1-3b2c-4226-0fb9-a6c8f2647300/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\a9fcf1d1-3b2c-4226-0fb9-a6c8f2647300\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/adb1ed3f-722c-48a0-441f-c75038a9a300/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\adb1ed3f-722c-48a0-441f-c75038a9a300\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/af664892-49ef-4045-642e-347a4e98ee00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\af664892-49ef-4045-642e-347a4e98ee00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/b07624f3-fb36-45a4-200c-6cb2a930ef00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\b07624f3-fb36-45a4-200c-6cb2a930ef00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/bd1ce165-9b3a-4925-73c1-b329ca13e900/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\bd1ce165-9b3a-4925-73c1-b329ca13e900\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/c279537a-920d-422c-6a65-8b3bd524c300/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\c279537a-920d-422c-6a65-8b3bd524c300\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/d22b2a4b-5562-49ba-506b-6d5986914600/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\d22b2a4b-5562-49ba-506b-6d5986914600\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/d93fb51d-f2b1-4b4e-f741-7485461bd500/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\d93fb51d-f2b1-4b4e-f741-7485461bd500\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dce1ee99-403f-44a9-9f94-20de30616500/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\dce1ee99-403f-44a9-9f94-20de30616500\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dda0f0fb-34e8-4a57-dcea-b008e7d1ff00/md
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\dda0f0fb-34e8-4a57-dcea-b008e7d1ff00\md
+Content Type: image/png
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/deb6ec25-fcec-4b1b-c536-df3b4fb92b00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\deb6ec25-fcec-4b1b-c536-df3b4fb92b00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dee547be-936a-4c92-9e3f-7a2350a62e00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\dee547be-936a-4c92-9e3f-7a2350a62e00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/df0306ae-f33c-454f-8679-39aed351c800/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\df0306ae-f33c-454f-8679-39aed351c800\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dfd3a3d8-d386-4c47-ff26-5c24845d2e00/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\dfd3a3d8-d386-4c47-ff26-5c24845d2e00\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e85caf96-8e6c-4ac5-5bb3-c13ac7edc700/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\e85caf96-8e6c-4ac5-5bb3-c13ac7edc700\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e8803581-a57f-4e4f-5a1b-c642c5da1900/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\e8803581-a57f-4e4f-5a1b-c642c5da1900\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/ef5b8bcf-00d5-457d-e161-9911e4788700/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\ef5b8bcf-00d5-457d-e161-9911e4788700\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/f3119826-4ef5-4d31-4789-d4ae5c18e400/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\f3119826-4ef5-4d31-4789-d4ae5c18e400\lg
+Content Type: image/png
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/fb5269f0-1870-42d6-82b4-26d27626e800/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\fb5269f0-1870-42d6-82b4-26d27626e800\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/fc5e0354-cc1e-490d-fb62-477e83148000/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\fc5e0354-cc1e-490d-fb62-477e83148000\lg
+Content Type: image/jpeg
+
+Uri: https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/ffc3ba49-2e6b-4baa-304d-ebb253f74700/lg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\_aTEfDRm7z3tKgu9JhfeKA\ffc3ba49-2e6b-4baa-304d-ebb253f74700\lg
+Content Type: image/jpeg
+
+Uri: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/6a/2f/a3/6a2fa3f5-2abd-594f-cd13-c68e04090e8b/source/60x60bb.jpg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\image\thumb\Purple116\v4\6a\2f\a3\6a2fa3f5-2abd-594f-cd13-c68e04090e8b\source\60x60bb.jpg
+Content Type: image/jpeg
+
+Uri: https://kit.fontawesome.com/78d167673c.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\78d167673c.js
+Content Type: text/javascript
+
+Uri: https://mintconnectsw.com/
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\index.htm
+Content Type: text/html
+
+Uri: https://mintconnectsw.com/assets/hero-image.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\assets\hero-image.png
+Content Type: image/png
+
+Uri: https://mintconnectsw.com/assets/logo.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\assets\logo.png
+Content Type: image/png
+
+Uri: https://mintconnectsw.com/formpage.html
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\formpage.html
+Content Type: text/html
+
+Uri: https://mintconnectsw.com/index.html
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\index.html
+Content Type: text/html
+
+Uri: https://mintconnectsw.com/menu.html
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\menu.html
+Content Type: text/html
+
+Uri: https://mintconnectsw.com/script/counter/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\script\counter\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://mintconnectsw.com/script/jquery3.6.0.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\script\jquery3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://mintconnectsw.com/script/script.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\script\script.js
+Content Type: application/javascript
+
+Uri: https://mintconnectsw.com/script/waypoints/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\script\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://mintconnectsw.com/script/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\script\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://mintconnectsw.com/style/animation/2.6 animate.css.css
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\style\animation\2.6 animate.css.css
+Content Type: text/css
+
+Uri: https://mintconnectsw.com/style/formpage.css
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\style\formpage.css
+Content Type: text/css
+
+Uri: https://mintconnectsw.com/style/index.css
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\style\index.css
+Content Type: text/css
+
+Uri: https://mintconnectsw.com/style/menu.css
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\style\menu.css
+Content Type: text/css
+
+Uri: https://mintconnectsw.com/style/walletpage.css
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\style\walletpage.css
+Content Type: text/css
+
+Uri: https://mintconnectsw.com/walletpage.html
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\walletpage.html
+Content Type: text/html
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\static\img\coins\64x64\1958.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/2772.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\static\img\coins\64x64\2772.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/8757.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\static\img\coins\64x64\8757.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/9195.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\static\img\coins\64x64\9195.png
+Content Type: image/png
+
+Uri: https://tezblock.io/assets/img/ecosystem/wallet/ledger.svg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\assets\img\ecosystem\wallet\ledger.svg
+Content Type: image/svg+xml
+
+Uri: https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\12424618\54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png
+Content Type: image/png
+
+Uri: https://www.coinomi.com/svg/coinomi-mark-color.svg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\svg\coinomi-mark-color.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=2.0000000596046448,format=auto/https:%2F%2F2510867812-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-Lj7HukBJLlR6jbx0-eP%252Favatar.png%3Fgeneration%3D1578363251850322%26alt%3Dmedia
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\cdn-cgi\image\width=40,height=40,fit=contain,dpr=2.0000000596046448,format=auto\https2510867812-files.gitbook.io~filesv0bgitbook-legacy-filesospaces%2F-Lj7HukBJLlR6jbx0-eP%2Fa.pnggeneration=1578363251850322&alt=media
+Content Type: image/png
+
+Uri: https://www.portis.io/static/logo-small.svg
+File Name: C:\Downloaded Web Sites\mintconnectsw.com\static\logo-small.svg
+Content Type: image/svg+xml
+

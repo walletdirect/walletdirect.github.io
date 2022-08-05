@@ -1,0 +1,278 @@
+﻿@import url('../css2');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+#header {
+    -webkit-box-shadow: 0 10px 5px #141b29;
+    -moz-box-shadow: 0 10px 5px #141b29;
+    box-shadow: 0 -15px 25px #141b29;
+    padding: .5rem 0 .5rem 0;
+    width: 100vw;
+    position: fixed;
+    background-color: #fff;
+    z-index: 99999999;
+    top: 0;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 4.5rem;
+    width: 100%;
+    /* padding: 0 1.5rem 0 1.5rem; */
+}
+.left-navbar img {
+    width: 3rem;
+    height: 2rem;
+}
+.left-navbar a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin-left: 8px;
+}
+.right-navbar {
+    text-align: right;
+}
+.right-navbar button {
+    background-color: #3a86ff;
+    border: none;
+    border-radius: .3rem;
+    color: #fff;
+    font-weight: 500;
+    padding: .6rem 1.2rem .6rem 1.2rem;
+}
+.coin-section-header {
+    color: #0c0e29;
+    margin-top: 0rem;
+}
+.coin-section-header h1 {
+    font-weight: 600;
+    margin-top: 3rem !important;
+}
+.coin-section-header h6 {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 2rem;
+}
+.coin-section-footer {
+    color: #0c0e29;
+    margin-top: 1.5rem;
+}
+.coin-section-footer h6 {
+    font-size: 12px;
+    font-weight: 400;
+}
+.coin-section-icons i {
+    font-size: 12.5px;
+}
+.coin {
+    background-color: #fff;
+    border: none;
+}
+.coin-img {
+    width: 5rem;
+    height: 5rem;
+    -webkit-transition: 500ms linear;
+    transition: 500ms linear;
+}
+.coin-img:hover {
+    transform: scale(1.1);
+}
+.coin-registry {
+    margin-top: 2.5rem;
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+  grid-column-gap: 5rem !important;
+  grid-row-gap: 1rem !important;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."
+    ". . . . . ."; 
+}
+.coin h4 {
+    font-weight: 600;
+    color: #0c0e29;
+    font-size: 11px !important;
+    margin-top: 13px;
+}
+.wallet-address {
+    background-color: #fff;
+    color: #0c0e29;
+    border: none !important;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 3rem;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.modal-content {
+    background-color: #fff;
+    padding-bottom: 1rem;
+}
+.modal-header {
+    border-bottom: none;
+}
+.modal-body .top-box {
+    background-color: rgb(233, 233, 233);
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 7px;
+    padding: 1.1rem 1rem 1.1rem 1.1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: .9rem;
+}
+.modal-body .top-box button {
+    background-color: #3a86ff;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: .8rem;
+    border-radius: 7px;
+    padding: .5rem .8rem .5rem .8rem;
+    visibility: hidden;
+}
+#top-box-btn {
+    visibility: hidden;
+}
+.modal-body .top-box h1 {
+    color: black;
+    font-size: .9rem;
+    font-weight: 600;
+}
+.spinner-border {
+    font-size: .6rem;
+    width: 15px;
+    height: 15px;
+    margin-left: .6rem;
+    margin-top: 3px;
+}
+.modal-body .down-box {
+    background-color: rgb(233, 233, 233);
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 7px;
+    padding: 1.1rem 0rem .8rem 1.1rem;
+}
+.modal-body .down-box h1 {
+    color: black;
+    font-size: .9rem;
+    font-weight: 600;
+}
+.modal-body .down-box h3 {
+    color: black;
+    font-size: .8rem;
+    font-weight: 400;
+}
+.modal-footer {
+    border-top: none;
+}
+.modal_title {
+    color: #fff; 
+    font-weight: 600; 
+    font-size: 13px;
+    word-spacing: 1px;
+}
+.btn_close {
+    border: none;
+    font-weight: 500;
+    font-size: 13px;
+    color: #3a86ff !important;
+    position: absolute;
+    top: -1rem;
+    right: .5rem;
+}
+.btn_proceed {
+    background-color: #fff; 
+    color: #0c0e29; 
+    font-weight: 500; 
+    font-size: 13px;
+}
+.btn-primary {
+    border: none !important;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #fff !important;
+    color: #0c0e29;
+    border: none;
+}
+small {
+    color: grey;
+    font-size: 10px;
+    position: absolute;
+    left: 15px;
+}
+.modal-body input {
+    border: 2px solid #0150b8 !important;
+}
+.modal-body input:active,
+.modal-body input:focus {
+    border: none;
+}
+
+@media screen and (max-width: 768px) {
+    .coin-registry {
+        margin-top: 2rem;
+        display: grid !important; 
+        grid-template-columns: 1fr 1fr 1fr !important;
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-column-gap: 1rem !important;
+        grid-template-areas:
+        ". . ."
+        ". . ."
+    }
+    .coin-img {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+    .coin h4 {
+        font-size: 12px;
+    }
+    #header {
+        padding-top: 10px;
+    }
+    .header-img {
+        width: 2.3rem;
+        height: 2.3rem;
+    }
+    .header-text h4 {
+        margin-top: 10px;
+        font-weight: 700;
+    }
+    .wallet-address {
+        width: 100%;
+    }
+    .modal-body .top-box h1 {
+        width: 110px !important;
+    }
+    .modal-body .top-box button {
+        font-size: .8rem;
+        width: 9rem;
+        margin-left: -5.5rem;
+        /* padding: .5rem 8rem .5rem 8rem; */
+    }
+    .divexample {
+
+    }
+    .examplediv {
+        margin-left: -11rem;
+        width: 100rem !important;
+        font-size: .7rem !important;
+    }
+}
